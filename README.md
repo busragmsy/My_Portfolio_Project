@@ -29,24 +29,7 @@ Projenin temel veritabanı yapısı aşağıdaki gibidir:
 
 Proje portföy sayfasından alınan bazı ekran görüntüleri:
 
-### 🖼️ Görsel 1
-![Portfolyo Görsel 1](path/to/portfolyo-gorsel1.png)
-
-### 🖼️ Görsel 2
-![Portfolyo Görsel 2](path/to/portfolyo-gorsel2.png)
-
-### 🖼️ Görsel 3
-![Portfolyo Görsel 3](path/to/portfolyo-gorsel3.png)
-
-### 🖼️ Görsel 4
-![Portfolyo Görsel 4](path/to/portfolyo-gorsel4.png)
-
-### 🖼️ Görsel 5
-![Portfolyo Görsel 5](path/to/portfolyo-gorsel5.png)
-
-### 🖼️ Görsel 6
-![Portfolyo Görsel 6](path/to/portfolyo-gorsel6.png)
-
+https://github.com/busragmsy/My_Portfolio_Project/issues/2#issue-2781882290
 ---
 
 ## 🔐 Admin Panelim
