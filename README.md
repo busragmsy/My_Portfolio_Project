@@ -40,14 +40,6 @@ Proje portföy sayfasından alınan bazı ekran görüntüleri:
 
 Admin panelinden alınan bazı ekran görüntüleri:
 
-### 🛡️ Admin Panel Görsel 1
-![Admin Panel Görsel 1](path/to/adminpanel-gorsel1.png)
-
-### 🛡️ Admin Panel Görsel 2
-![Admin Panel Görsel 2](path/to/adminpanel-gorsel2.png)
-
-### 🛡️ Admin Panel Görsel 3
-![Admin Panel Görsel 3](path/to/adminpanel-gorsel3.png)
-
-### 🛡️ Admin Panel Görsel 4
-![Admin Panel Görsel 4](path/to/adminpanel-gorsel4.png)
+![AdminProjelerim](https://github.com/user-attachments/assets/d5b35215-5bb2-456a-9692-331e5a396c0d)
+![AdminReferanslarım](https://github.com/user-attachments/assets/1464c21f-5f2c-4cb7-bec2-28676c42350e)
+![AdminMesajlarım](https://github.com/user-attachments/assets/6e9f0d1f-4473-4ef1-bc3b-1919ee797f64)
