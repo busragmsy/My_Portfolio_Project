@@ -1,0 +1,47 @@
+﻿@model List<AcunMedyaPortfolyo.Models.TblContact>
+
+<div id="contact" class="section db">
+    <div class="container">
+        <form action="/Contact/SendMessage" method="post">
+            <div class="section-title text-left">
+                <h3>İletişim</h3>
+                <p>Bana ulaşmak için mesajınızı bırakabilirsiniz.</p>
+            </div><!-- end title -->
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="contact_form">
+                        <div id="message"></div>
+                        <form id="contactForm" name="sentMessage" novalidate="novalidate">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <input class="form-control" id="name" name="NameSurname" type="text" placeholder="Ad Soyad" required="required" data-validation-required-message="Lütfen Adınızı ve Soyadınızı Giriniz.">
+                                        <p class="help-block text-danger"></p>
+                                    </div>
+                                    <div class="form-group">
+                                        <input class="form-control" id="email" name="Email" type="email" placeholder="Mail Adresi" required="required" data-validation-required-message="Lütfen Mail Adresinizi Giriniz.">
+                                        <p class="help-block text-danger"></p>
+                                    </div>
+                                    <div class="form-group">
+                                        <input class="form-control" id="phone" name="Phone" type="tel" placeholder="Telefon Numarası" required="required" data-validation-required-message="Lütfen Telefon Numaranızı Giriniz.">
+                                        <p class="help-block text-danger"></p>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <textarea class="form-control" id="message" name="Message" placeholder="Mesajınızı Giriniz" required="required" data-validation-required-message="Lütfen Mesajınızı Giriniz."></textarea>
+                                        <p class="help-block text-danger"></p>
+                                    </div>
+                                </div>
+                                <div class="clearfix"></div>
+                                <div class="col-lg-12 text-center">
+                                    <div id="success" name="SendDate"></div>
+                                    <button id="sendMessageButton" class="sim-btn btn-hover-new" data-text="Send Message" type="submit">Mesajı Gönder</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div><!-- end col -->
+            </div><!-- end row -->
+    </div><!-- end container -->
+</div>
